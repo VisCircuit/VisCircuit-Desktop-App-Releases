@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.1",
-  "notes": "test auto updater works or not",
-  "pub_date": "2024-08-22T23:15:35+08:00",
+  "version": "v0.1.2",
+  "notes": "Official Release of the First Viscircuit Desktop App for macOS",
+  "pub_date": "2024-08-24T23:15:35+08:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVh0a1Z0YXpXb3MzZTZTVFhBM2VvNlhsdkJQSS85dS80c1ZqNDZMdk5lbSt0VDdiMmtsL0VTdGtGVlhoR1NIVStmVUtGS3hOcFBYOXJIcmtyeis0aWlSS0JwRjB3TUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MzQ0NTI5CWZpbGU6VmlzQ2lyY3VpdC5hcHAudGFyLmd6CjhWNGkyUjN2WjRsaVRvTE1EYXN2NXZuQlBVWmRFVElBR0VxMXE1MTFhb2lqQ1JrV2UveElJbzZzdVlUTngzUjJJbFV6TTZNZlU1RW1RVStmbm5UTUNRPT0K",
-      "url": "https://github.com/VisCircuit/VisCircuit-Desktop-App-Releases/releases/download/v0.1.1/VisCircuit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVh0a1Z0YXpXb2thUWhyTC80eS90eWw2bG1tRnZVZ1VvaEFicmRvNFU3VWlTekZENGxVeDBsbjY2Zjd5eTNCSEhVZTJXYkJvRkxmbU9IeTAydlYzRlZUdE5oN29NakFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0NDI5MTQ2CWZpbGU6VmlzQ2lyY3VpdC5hcHAudGFyLmd6CkFXV1RJZVJUcWxNV3hTd0srd2RJd1hCbFdNUVRHUGRzM2k5T0VxQk8vRFJnNTVVRjRzVkhnSGc2SUlhTjQ0M2NFeElHcXBlWVJ3czhBN0dqdHlLK0R3PT0K",
+      "url": "https://github.com/VisCircuit/VisCircuit-Desktop-App-Releases/releases/download/v0.1.2/VisCircuit.app.tar.gz"
     }
   }
 }
