@@ -3,6 +3,10 @@
   "notes": "Add features about dragging component and duplicate cloud note to local note",
   "pub_date": "2024-09-07T23:30:35+08:00",
   "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVh0a1Z0YXpXb3B3ZEdCL3NaMkd0bWdhOW00bGtxUElFa2liM1FibmxZOFRiMzA4SGlWSTZCMDdXc3dsMFQ5TCtqTmFERzBSeXhxTnltTDNhWWhmdnNkaHorSjFxdlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NzI1Mjg1CWZpbGU6VmlzQ2lyY3VpdF8wLjEuNF94NjQtc2V0dXAuZXhlCmxlVjF2Tzh3QnZYR2NmTEVJNHlkNDYzVWdUT1NsSHZXS3J1anoraGRYRWp1cU9NZlpkQ2Nvd3ZveS9aMTlXOHlGZ2loM3MxR3k4ZldxRWh6QnhGd0JRPT0K",
+      "url": "https://github.com/VisCircuit/VisCircuit-Desktop-App-Releases/releases/download/v0.1.4/VisCircuit_0.1.4_x64-setup.exe"
+    },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZVh0a1Z0YXpXb21BdGVOVjcyUHhlUFNTcEdZVUVVWk5ZOEFuQk9iR1Y3VnJCcTNtZm8xVUpQbmc2cjZheWovVmlaZjJQRjhzTDZwU25zWFA3SndhS2E2Rmx2N2xoVGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NzIyNDc1CWZpbGU6VmlzQ2lyY3VpdC5hcHAudGFyLmd6Cm1PRHpQNEg1YXJxQys0VDVXZ3V4YnVFT1RDZ3QxbUFWZnYvWkk3a09vUlQxV1NhUVFLVklUcS85WENFbURHaEpPWVkxcTYwZklzMkpxR01UYndVRUN3PT0K",
       "url": "https://github.com/VisCircuit/VisCircuit-Desktop-App-Releases/releases/download/v0.1.4/VisCircuit.app.tar.gz"
